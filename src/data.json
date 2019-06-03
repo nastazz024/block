@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Образование и наука",
+        "image": "./img/education.png"
+    },
+    {
+        "id": 2,
+        "name": "Безопасность и правопорядок",
+        "image": "./img/security.png"
+    },
+    {
+        "id": 3,
+        "name": "Финансы",
+        "image": "./img/finance.png"
+    },
+    {
+        "id": 4,
+        "name": "Семья и быт",
+        "image": "./img/family.png"
+    },
+    {
+        "id": 5,
+        "name": "Работа и занятость",
+        "image": "./img/work.png"
+    },
+    {
+        "id": 6,
+        "name": "Земельно-имущественные отношения",
+        "image": "./img/earth.png"
+    },
+    {
+        "id": 7,
+        "name": "Здравоохранение и медицина",
+        "image": "./img/medicine.png"
+    },
+    {
+        "id": 8,
+        "name": "Торговля и госзакупки",
+        "image": "./img/trade.png"
+    }
+]
